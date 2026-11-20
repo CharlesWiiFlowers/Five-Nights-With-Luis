@@ -1,0 +1,14 @@
+{
+  "_doc": "Tracks are chosen by mood tag + sector. See README > Music. 'file' is relative to assets/music/.",
+  "tracks": [
+    {
+      "id": "template",
+      "file": "template.mp3",
+      "moods": ["ambient", "exploration", "combat", "boss", "tension", "victory", "defeat"],
+      "sectors": ["*"],
+      "volume": 0.6,
+      "loop": true,
+      "test": true
+    }
+  ]
+}
